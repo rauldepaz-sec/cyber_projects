@@ -32,7 +32,3 @@ I'm Raúl, an Electronic Engineering graduate with a bachelor's degree from Univ
 ### 🤝 Connect with Me
 
 - [LinkedIn] www.linkedin.com/in/rauldepaznunez
-
----
-
-*Learning by doing. Documenting the process. Building practical skills.*
