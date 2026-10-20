@@ -20,7 +20,7 @@ Here, I'll share hands-on labs, technical projects, configurations, troubleshoot
 
 Hands-on labs and technical projects focused on network security, firewall configuration, VPNs, traffic analysis, and troubleshooting.
 
-- [Active Directory Homre Lab] (https://github.com/rauldepaz-sec/netsec_lab1)
+- [Active Directory Homre Lab](https://github.com/rauldepaz-sec/netsec_lab1)
 
 ### 📜 Certifications
 
