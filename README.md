@@ -24,7 +24,7 @@ Hands-on labs and technical projects focused on network security, firewall confi
 
 ### 📜 Certifications
 
-- Cisco CCNA
+- [Cisco CCNA](https://drive.google.com/file/d/1khAIMufYv26ZTLul92Cx1LSb04bURFEh/view?usp=sharing)
 - Palo Alto Networks SSE
 
 ### 👨‍🎓 About Me
